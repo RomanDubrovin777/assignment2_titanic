@@ -31,7 +31,7 @@ After tuning the models and evaluating them, here are the best scores achieved:
 
 | Model              | Accuracy | Precision | Recall | F1 Score |
 |--------------------|----------|-----------|--------|----------|
-| Decision Tree       | 0.86     | 0.78      | 0.77   | 0.78     |
+| Decision Tree       | 0.85     | 0.78      | 0.77   | 0.78     |
 
 
 **Best Parameters**:  
